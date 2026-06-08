@@ -39,6 +39,7 @@ BLOG-WEBSITE/
 │
 ├── README.md               # Operations manual & Viva presentation instructions
 └── run-app.bat             # One-click Windows concurrent launcher script
+ ```
  ---
 
 ## Environment Variables
