@@ -1,15 +1,15 @@
 # blogwebsite
-# Overview
+## Overview
 "This website is a beautiful, personal space designed for couples to share their wedding stories and precious memories. Built using modern web technology, it ensures a smooth, fast, and responsive experience for every visitor. We focused on a clean, elegant design that keeps the focus entirely on the emotions behind every photo and post. It is a simple, secure way to turn fleeting life moments into a lasting digital keepsake."
 
-#Technologies Used
-Frontend:- React.js, HTML5, CSS3, JavaScript
-Backend:- Node.js (with Express.js),JWT authorization,bcryptjs password encryption
-Database:- MongoDB Atlas(NoSQL)
-Tools & IDE:- Visual Studio Code, Git/GitHub
-Design:- TailwindCSS
+##Technologies Used
+**Frontend:-** React.js, HTML5, CSS3, JavaScript
+**Backend:-** Node.js (with Express.js),JWT authorization,bcryptjs password encryption
+**Database:-** MongoDB Atlas(NoSQL)
+**Tools & IDE:-** Visual Studio Code, Git/GitHub
+**Design:-** TailwindCSS
 
-#System Architecture
+##System Architecture
 BLOG-WEBSITE/
 │
 ├── backend/
