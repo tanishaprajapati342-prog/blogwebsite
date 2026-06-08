@@ -2,7 +2,7 @@
 ## Overview
 "This website is a beautiful, personal space designed for couples to share their wedding stories and precious memories. Built using modern web technology, it ensures a smooth, fast, and responsive experience for every visitor. We focused on a clean, elegant design that keeps the focus entirely on the emotions behind every photo and post. It is a simple, secure way to turn fleeting life moments into a lasting digital keepsake."
 ---
-##Technologies Used
+## Technologies Used
  * **Frontend:-** React.js, HTML5, CSS3, JavaScript
  * **Backend:-** Node.js (with Express.js),JWT authorization,bcryptjs password encryption
 * **Database:-** MongoDB Atlas(NoSQL)
@@ -11,7 +11,7 @@
 
 ---
 
-##System Architecture
+## System Architecture
 ```
 BLOG-WEBSITE/
 │
@@ -41,9 +41,11 @@ BLOG-WEBSITE/
 └── run-app.bat             # One-click Windows concurrent launcher script
  ---
 
-#Environment Variables
-
+## Environment Variables
 A .env template file has been placed inside backend/.env.
-PORT=5000  MONGODB_URI="mongodb+srv://tanishaprajapati342_db_user:blogwebsite123@cluster0.ryz3shi.mongodb.net"  JWT_SECRET="mysecretkey"
+
+PORT=5000  
+MONGODB_URI="mongodb+srv://tanishaprajapati342_db_user:blogwebsite123@cluster0.ryz3shi.mongodb.net"  
+JWT_SECRET="mysecretkey"
 
 
