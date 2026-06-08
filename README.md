@@ -49,4 +49,16 @@ PORT=5000
 MONGODB_URI="mongodb+srv://tanishaprajapati342_db_user:blogwebsite123@cluster0.ryz3shi.mongodb.net"  
 JWT_SECRET="mysecretkey"
 
+---
 
+## API Documentation
+
+### Authentication Endpoints
+*  **POST/api/user/signup -** Register a new startup employee workspace.
+* **POST/api/user/login -** Authenticate registered emails and load JWT tokens.
+
+### Blog Posts
+* **POST `/api/blogs/create`** - Create a new blog post with an image upload.
+* **GET `/api/blogs/all`** - Retrieve all available blog posts.
+* **DELETE `/api/blogs/delete/:id`** - Delete a specific blog post by its unique ID.
+* **GET `/api/blogs/user/blogs`** - Fetch all blog posts create by the logged-in user.
